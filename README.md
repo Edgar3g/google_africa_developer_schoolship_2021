@@ -1,7 +1,8 @@
 # Google Africa Developer Schoolship 2021
 
 ## What is Google Africa Developer Schoolship ?
--   The Google Africa Developer Scholarship program has sponsored 45,000 aspiring developers in Africa to skill up with Pluralsight Skills, supported by the Google Developer community. 
+-   Google Africa Developer Scholarship program is a Grow with Google, Andela, and Pluralsight partnership to support software developers in Africa on Android, Google Cloud, and Mobile Web courses. The aim of this program is to continuously engage with aspiring and existing developers on these tracks to become professional developers with skills that can get them opportunities after the program.
+. 
 
     This program has multiple phases for you to gain access to excellent Pluralsight Skills courses as well as support from the GADS program and the Google Developer Community. All of this is to help you upskill on important Google technologies.
 
@@ -16,10 +17,39 @@
    - [Pluralsight](https://pluralsight.com) <br/>
    - [Andela](https://andela.com)
 
+
+## What is Andela Learning Community
+
+ - The Andela Learning Community is a network of technologists and tech enthusiasts across Africa dedicated to learning how to use technology to solve humanity’s problems. The ALC facilitates your learning through the aid of guided mentorship from super awesome learning community ambassadors. Our goal is to provide an ever-growing population of aspiring technologists with the resources and environments they need to become world-class problem solvers.
+
+## What is the Duration of this Program?
+
+- The program will be executed in 5 different phases
+
+   - Application Phase
+   -  Learning Phase 1 
+   -  Learning Phase 2 
+   -  Project Phase 
+   -  Certification Phase 
+
+
+## How to advance to the Learning Phase 2
+
+-    AAD - Score 100+ on AAD Skill IQ OR 10+ hrs of role-specific engagement
+    MWS - Score 100+ on “Building Websites with HTML, CSS, and JavaScript” Skill IQ OR 10+ hrs of role-specific engagement
+    CLOUD -  Score 100+ on ACE Skill IQ OR 10+ hrs of role-specific engagement
+
+No, unfortunately, you cannot change tracks post-selection. You will have to stick with the track you have.
+
 ## More about Program
 
    * [Here](https://help.pluralsight.com/help/google-africa-developer-scholarship-2021) 
    * [Here](https://andela.com/alc/in-progress/google-africa-developer-scholarship-2021/)
+
+## How can I ask questions or raise concerns?
+
+   [Andela] - Ask on Ask GADS Channel or email us at (gads@andela.com)
+   [Pluralsight] - Send an Email to (support@pluralsight.com​)
 
 ## Purpose of this repo
 
