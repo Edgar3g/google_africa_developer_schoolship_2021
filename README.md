@@ -48,8 +48,8 @@ No, unfortunately, you cannot change tracks post-selection. You will have to sti
 
 ## How can I ask questions or raise concerns?
 
-   [Andela] - Ask on Ask GADS Channel or email us at (gads@andela.com)
-   [Pluralsight] - Send an Email to (support@pluralsight.com​)
+   * [Andela] - Ask on Ask GADS Channel or email us at (gads@andela.com) <br>
+   * [Pluralsight] - Send an Email to (support@pluralsight.com​)
 
 ## Purpose of this repo
 
